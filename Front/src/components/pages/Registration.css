@@ -1,0 +1,7 @@
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 87vh;
+  z-index: 1;
+}

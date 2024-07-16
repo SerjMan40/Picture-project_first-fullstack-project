@@ -1,0 +1,10 @@
+.notFound-container
+ {
+  display: block;
+  height: 87vh;
+  margin: 70px 15% 0 15%;
+  background-color: rgb(89, 164, 225);
+  border-radius: 25px;
+  overflow: hidden;
+  z-index: 1;
+}

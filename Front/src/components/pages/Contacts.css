@@ -1,0 +1,18 @@
+.contacts-container {
+  display: block;
+  height: 87vh;
+  margin: 70px 15% 0 15%;
+}
+
+.info {
+  display: flex;
+  text-align: center;
+  padding: 0 20px;
+  gap: 15%;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  font-size: 2rem;
+}

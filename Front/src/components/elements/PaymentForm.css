@@ -1,0 +1,15 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media (max-width: 1250px) and (min-width: 900px) {
+  .card-container {
+    padding: 20px;
+  }
+  .form-grid-item {
+    width: 100%;
+  }
+}
